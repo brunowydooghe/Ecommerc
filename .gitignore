@@ -2,3 +2,8 @@ obj
 bin
 appsettings.json
 *.db
+*.rdb
+publish 
+wwwroot
+node_modules
+
